@@ -26,17 +26,17 @@
 
 **Future Technologies:**
 
-- ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3), ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
 - ![React](https://img.shields.io/badge/-React-black?style=flat-circle&logo=react)
 
 ---
 
 ## 🏆 Soft Skills
 
-- 🤝 Teamwork & Collaboration
 - 📢 Communication Skills
 - 🎯 Problem-Solving
 - 🚀 Adaptability
+- 🤝 Teamwork & Collaboration
 
 ---
 
