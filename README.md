@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [Noluthando Maphanga]
 
-🌱 Beginner Software Developer | Automation Teeachnician| 🚀 Excited to Learn & Build
+🌱 Beginner Software Developer | Automation Technician| 🚀 Excited to Learn & Build
 
 ---
 
