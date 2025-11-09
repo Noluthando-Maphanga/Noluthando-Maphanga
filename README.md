@@ -82,3 +82,5 @@ Here are some of my milestone projects (to be updated as I progress!):
 ## 🏆 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noluthando-maphanga&show_icons=true&theme=radical)
+
+![GitHub User's stars](https://img.shields.io/github/stars/:noluthando-maphanga&show_icons=true&theme=radical)
