@@ -1,16 +1,82 @@
-## Hi there 👋
+# 👋 Hi, I'm [Noluthando Maphanga]
 
-<!--
-**Noluthando-Maphanga/Noluthando-Maphanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Beginner Software Developer | Automation Teeachnician| 🚀 Excited to Learn & Build
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 About Me
+
+- 💡 I'm currently learning **GitHub and version control,HTML, CSS** as a beginner front-end Developer
+- 🎓 Soon, I'll be exploring **JavaScript**!
+- 🤖 I love problem-solving and working on creative projects.
+- 🔥 Looking forward to building real-world applications.
+- 🚀 I cannot wait to intertwine industrial programming and front-end coding.
+
+---
+
+## 🛠️ Tech Stack
+
+**Currently learning:**
+
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github)
+
+**Future Technologies:**
+
+- ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3), ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
+- ![React](https://img.shields.io/badge/-React-black?style=flat-circle&logo=react)
+
+---
+
+## 🏆 Soft Skills
+
+- 🤝 Teamwork & Collaboration
+- 📢 Communication Skills
+- 🎯 Problem-Solving
+- 🚀 Adaptability
+
+---
+
+## 📌 Projects
+
+Here are some of my milestone projects (to be updated as I progress!):
+
+### **1️⃣ First GitHub Project**
+
+🔹 **Description:** My first project using GitHub to manage files.  
+🔹 **Status:** ✅ Completed
+
+### **2️⃣ Personal Portfolio** _(Coming Soon!)_
+
+🔹 **Description:** A simple portfolio to showcase my projects.  
+🔹 **Technologies:** HTML, Tailwind CSS
+🔹 **Status:** ⏳ In Progress
+
+---
+
+## 📚 Learning Goals
+
+- 🚀 Get comfortable using Git and GitHub
+- 🎨 Learn HTML, CSS, and JavaScript
+- 💡 Build real-world projects and collaborate with others
+
+---
+
+## 📫 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/noluthando-maphanga)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noluthando-maphanga-158765a2/)  
+📧 Email: [thando.maphanga@gmail.com](mailto:thando.maphanga@gmail.com)
+
+---
+
+## 🚀 Fun Fact
+
+💡 I love learning new things and can't wait to build my first website!
+
+---
+
+## 🏆 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noluthando-maphanga&show_icons=true&theme=radical)
